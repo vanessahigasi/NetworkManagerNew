@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">NetworkManager</string>
+    <string name="text_fetch_image">Fetch Image</string>
+    <string name="text_get_data">Get Data</string>
+    <string name="text_sample_image">text_sample_image</string>
 </resources>
